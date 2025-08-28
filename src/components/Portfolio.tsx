@@ -18,8 +18,7 @@ const projects = [
     id: 2,
     title: "The day i met him",
     category: "Book Cover",
-    description: "Designed a novel cover using Figma. A prominent text panel delivers an excerpt from the book, reflecting on the human tendency to compare achievements, grapple with self-doubt, and strive for personal growth. The key takeaway is emphasized in a striking typographic layout."
-"Tie yourself to a goal, not to people or things.'.",
+    description: "A romantic and heartwarming book cover design featuring soft pastel colors, dreamy illustrations, and elegant typography. Gentle floral elements, glowing light effects, and a serene background capture the warmth of love at first sight. The design radiates tenderness and charm, perfectly reflecting the emotions of a beautiful love story.",
     image: "https://drive.google.com/file/d/13x2zk5qzlCLoafyUFEidJUGw5MhxWOHF/view?usp=drivesdk",
     tags: ["Design", "Dark UI", "Book Cover"],
     color: "from-indigo-900 to-purple-900"
