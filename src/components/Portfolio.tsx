@@ -8,14 +8,8 @@ const projects = [
     id: 1,
     title: "The Moral",
     category: "Book Cover",
-    description: "Designed a novel cover using Figma.
-A prominent text panel delivers an excerpt from the book,
-reflecting on the human tendency to compare achievements,
-grapple with self-doubt, and strive for personal growth. The
-key takeaway is emphasized in a striking typographic layout.
-
-
-"Tie yourself to a goal, not to people or things.'.",
+    description: "Designed a novel cover using Figma. A prominent text panel delivers an excerpt from the book, reflecting on the human tendency to compare achievements, grapple with self-doubt, and strive for personal growth. The key takeaway is emphasized in a striking typographic layout."
+"Tie yourself to a goal, not to people or things.",
     image: "https://drive.google.com/file/d/1eryG2xueoN_rRL7JjWu0KaHU_Mwv00IS/view?usp=drivesdk",
     tags: ["Design", "Dark UI", "Book Cover"],
     color: "from-purple-900 to-black"
@@ -24,13 +18,7 @@ key takeaway is emphasized in a striking typographic layout.
     id: 2,
     title: "The day i met him",
     category: "Book Cover",
-    description: "Designed a novel cover using Figma.
-A prominent text panel delivers an excerpt from the book,
-reflecting on the human tendency to compare achievements,
-grapple with self-doubt, and strive for personal growth. The
-key takeaway is emphasized in a striking typographic layout.
-
-
+    description: "Designed a novel cover using Figma. A prominent text panel delivers an excerpt from the book, reflecting on the human tendency to compare achievements, grapple with self-doubt, and strive for personal growth. The key takeaway is emphasized in a striking typographic layout."
 "Tie yourself to a goal, not to people or things.'.",
     image: "https://drive.google.com/file/d/13x2zk5qzlCLoafyUFEidJUGw5MhxWOHF/view?usp=drivesdk",
     tags: ["Design", "Dark UI", "Book Cover"],
@@ -40,7 +28,7 @@ key takeaway is emphasized in a striking typographic layout.
     id: 3,
     title: "Book Cover",
     category: "May Be",
-    description: ""A striking book cover crafted in a dark theme, featuring deep tones and dramatic contrasts. The design blends minimalism with mystery, using bold typography and subtle textures to create an atmospheric and immersive look. Perfect for genres like thriller, mystery, fantasy, or drama, the cover evokes intrigue and sets the tone for the story within."",
+    description: "A striking book cover crafted in a dark theme, featuring deep tones and dramatic contrasts. The design blends minimalism with mystery, using bold typography and subtle textures to create an atmospheric and immersive look. Perfect for genres like thriller, mystery, fantasy, or drama, the cover evokes intrigue and sets the tone for the story within.",
     image: "https://drive.google.com/file/d/1kr84ucViqOUnDnGV9YTQgD5gL2jYdB-A/view?usp=drivesdk",
     tags: ["Dark", "Book Cover", "Black"],
     color: "from-gray-900 to-purple-900"
