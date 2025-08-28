@@ -44,24 +44,15 @@ const About = () => {
           <div className="space-y-6">
             <div className="grid grid-cols-2 gap-6">
               <Card className="p-6 bg-card hover-glow text-center">
-                <div className="text-3xl font-bold text-primary mb-2">5+</div>
+                <div className="text-3xl font-bold text-primary mb-2">1+</div>
                 <div className="text-sm text-muted-foreground">Years Experience</div>
               </Card>
               
               <Card className="p-6 bg-card hover-glow text-center">
-                <div className="text-3xl font-bold text-primary mb-2">50+</div>
+                <div className="text-3xl font-bold text-primary mb-2">5+</div>
                 <div className="text-sm text-muted-foreground">Projects Completed</div>
               </Card>
               
-              <Card className="p-6 bg-card hover-glow text-center">
-                <div className="text-3xl font-bold text-primary mb-2">15+</div>
-                <div className="text-sm text-muted-foreground">Happy Clients</div>
-              </Card>
-              
-              <Card className="p-6 bg-card hover-glow text-center">
-                <div className="text-3xl font-bold text-primary mb-2">3</div>
-                <div className="text-sm text-muted-foreground">Awards Won</div>
-              </Card>
             </div>
 
             <Card className="p-8 bg-gradient-card border-primary/20">
