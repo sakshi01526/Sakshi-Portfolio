@@ -25,7 +25,61 @@ const projects = [
   },
   {
     id: 3,
-    title: "May Be",
+    title: " id: 1,
+    title: "The Moral",
+    category: "Book Cover",
+    description: "Designed a novel cover using Figma. A prominent text panel delivers an excerpt from the book, reflecting on the human tendency to compare achievements, grapple with self-doubt, and strive for personal growth. The key takeaway is emphasized in a striking typographic layout."
+"Tie yourself to a goal, not to people or things.",
+    image: "https://postimg.cc/9z9jHC3D",
+    tags: ["Design", "Dark UI", "Book Cover"],
+    color: "from-purple-900 to-black"
+  },
+  {
+    id: 2,
+    title: "The day i met him",
+    category: "Book Cover",
+    description: "A romantic and heartwarming book cover design featuring soft pastel colors, dreamy illustrations, and elegant typography. Gentle floral elements, glowing light effects, and a serene background capture the warmth of love at first sight. The design radiates tenderness and charm, perfectly reflecting the emotions of a beautiful love story.",
+    image: "https://postimg.cc/30X64r79",
+    tags: ["Design", "Dark UI", "Book Cover"],
+    color: "from-indigo-900 to-purple-900"
+  },
+  {
+    id: 3,
+    title: "Book Cover",
+    category: "May Be",
+    description: "A striking book cover crafted in a dark theme, featuring deep tones and dramatic contrasts. The design blends minimalism with mystery, using bold typography and subtle textures to create an atmospheric and immersive look. Perfect for genres like thriller, mystery, fantasy, or drama, the cover evokes intrigue and sets the tone for the story within.",
+    image: "https://postimg.cc/0bZWLBN6",
+    tags: ["Dark", "Book Cover", "Black"],
+    color: "from-gray-900 to-purple-900"
+  },
+  {
+    id: 4,
+    title: "ui/ux design",
+    category: "online job search App",
+    description: "An intuitive online job search app designed to connect job seekers with employers seamlessly. It features smart search filters, personalized job recommendations, resume uploads, and instant application tracking. With a clean interface, real-time notifications, and in-app messaging, the app makes job hunting faster, easier, and more efficient.",
+    image: "https://postimg.cc/QF9z1qXH",
+    tags: ["Job portal", "Mobile", "Accessibility"],
+    color: "from-blue-900 to-purple-900"
+  },
+  {
+    id: 5,
+    title: "Flower Wbsite Design",
+    category: "Social Platform",
+    description: "A visually elegant flower website design that combines soft pastel colors, high-quality floral imagery, and a clean layout. The design features an intuitive navigation system, product galleries, and a smooth shopping experience for bouquets and arrangements. Subtle animations and a nature-inspired aesthetic create a fresh, welcoming, and user-friendly online presence for florists and flower businesses.",
+    image: "https://postimg.cc/TLYqqRrC",
+    tags: ["Social Media", "Creator flowers", "Community"],
+    color: "from-violet-900 to-black"
+  },
+  {
+    id: 6,
+    title: "online Learning",
+    category: "Education Platform",
+    description: "A modern education platform designed to make learning accessible, interactive, and engaging. It offers online courses, live classes, progress tracking, and personalized learning paths. With features like discussion forums, quizzes, certifications, and a user-friendly dashboard, the platform empowers students and educators to connect, collaborate, and grow in a digital learning environment..",
+    image: "https://postimg.cc/mhnNCWhy",
+    tags: ["Education", "learning", "Web Platform"],
+    color: "from-emerald-900 to-purple-900"
+  }
+];",
     category: "Book Cover",
     description: "A striking book cover crafted in a dark theme, featuring deep tones and dramatic contrasts. The design blends minimalism with mystery, using bold typography and subtle textures to create an atmospheric and immersive look. Perfect for genres like thriller, mystery, fantasy, or drama, the cover evokes intrigue and sets the tone for the story within.",
     image: "https://postimg.cc/0bZWLBN6",
