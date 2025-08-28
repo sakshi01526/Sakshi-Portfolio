@@ -26,7 +26,7 @@ const About = () => {
             </p>
 
             <p className="text-lg text-foreground-muted leading-relaxed">
-              With over 5 years of experience in crafting user experiences for startups and 
+              With over 1 year of experience in crafting user experiences for startups and 
               enterprises, I specialize in transforming complex problems into elegant solutions 
               that users don't just use — they remember.
             </p>
