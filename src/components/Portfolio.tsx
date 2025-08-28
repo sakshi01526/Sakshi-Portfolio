@@ -8,8 +8,7 @@ const projects = [
     id: 1,
     title: "The Moral",
     category: "Book Cover",
-    description: "Designed a novel cover using Figma. A prominent text panel delivers an excerpt from the book, reflecting on the human tendency to compare achievements, grapple with self-doubt, and strive for personal growth. The key takeaway is emphasized in a striking typographic layout."
-"Tie yourself to a goal, not to people or things.",
+    description: "Designed a novel cover using Figma. A prominent text panel delivers an excerpt from the book, reflecting on the human tendency to compare achievements, grapple with self-doubt, and strive for personal growth. The key takeaway is emphasized in a striking typographic layout. Tie yourself to a goal, not to people or things.",
     image: "https://drive.google.com/file/d/1eryG2xueoN_rRL7JjWu0KaHU_Mwv00IS/view?usp=drivesdk",
     tags: ["Design", "Dark UI", "Book Cover"],
     color: "from-purple-900 to-black"
