@@ -110,7 +110,7 @@ const Contact = () => {
                   </div>
                   <div>
                     <div className="text-sm text-muted-foreground">Email</div>
-                    <div className="text-foreground">sakshi.design@example.com</div>
+                    <div className="text-foreground">sakshidesign609@gmail.com</div>
                   </div>
                 </div>
                 
@@ -120,7 +120,7 @@ const Contact = () => {
                   </div>
                   <div>
                     <div className="text-sm text-muted-foreground">Phone</div>
-                    <div className="text-foreground">+91 54834 28394</div>
+                    <div className="text-foreground">+91 63943 96847</div>
                   </div>
                 </div>
                 
@@ -144,8 +144,8 @@ const Contact = () => {
               
               <div className="flex space-x-4">
                 {[
-                  { icon: Linkedin, label: "LinkedIn", href: "#" },
-                  { icon: Github, label: "GitHub", href: "#" }
+                  { icon: Linkedin, label: "LinkedIn", href: "https://www.linkedin.com/in/sakshi-1ab576291/" },
+                  { icon: Github, label: "GitHub", href: "https://github.com/sakshi01526" }
                 ].map((social, index) => {
                   const Icon = social.icon;
                   return (
