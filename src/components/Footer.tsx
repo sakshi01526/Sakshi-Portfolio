@@ -21,15 +21,14 @@ const Footer = () => {
               "I have always imagined that Paradise will be a kind of library... 
               but in my case, it's a design system."
             </blockquote>
-            <p className="text-sm text-muted-foreground mt-2">— Sakshi (inspired by Borges)</p>
+            <p className="text-sm text-muted-foreground mt-2">— Sakshi</p>
           </div>
 
           {/* Copyright */}
           <div className="pt-8 border-t border-border/30">
             <p className="text-muted-foreground flex items-center justify-center space-x-2">
-              <span>© 2024 Sakshi. Crafted with</span>
-              <Heart className="h-4 w-4 text-primary fill-current" />
-              <span>and a touch of mystery.</span>
+              <span>© 2025 Sakshi. Crafted with</span>
+              <span> a touch of mystery.</span>
             </p>
           </div>
         </div>
