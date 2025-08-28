@@ -6,56 +6,70 @@ import { useState } from "react";
 const projects = [
   {
     id: 1,
-    title: "ShadowBank",
-    category: "Fintech App",
-    description: "A dark-themed banking app that reimagines financial management with gothic elegance and cutting-edge security.",
-    image: "https://images.unsplash.com/photo-1563013544-824ae1b704d3?w=600&h=400&fit=crop",
-    tags: ["Mobile App", "Dark UI", "Fintech"],
+    title: "The Moral",
+    category: "Book Cover",
+    description: "Designed a novel cover using Figma.
+A prominent text panel delivers an excerpt from the book,
+reflecting on the human tendency to compare achievements,
+grapple with self-doubt, and strive for personal growth. The
+key takeaway is emphasized in a striking typographic layout.
+
+
+"Tie yourself to a goal, not to people or things.'.",
+    image: "https://drive.google.com/file/d/1eryG2xueoN_rRL7JjWu0KaHU_Mwv00IS/view?usp=drivesdk",
+    tags: ["Design", "Dark UI", "Book Cover"],
     color: "from-purple-900 to-black"
   },
   {
     id: 2,
-    title: "Mystic Commerce",
-    category: "E-commerce Platform",
-    description: "An otherworldly shopping experience that combines mystical aesthetics with intuitive user flows.",
-    image: "https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?w=600&h=400&fit=crop",
-    tags: ["Web App", "E-commerce", "Dark Theme"],
+    title: "The day i met him",
+    category: "Book Cover",
+    description: "Designed a novel cover using Figma.
+A prominent text panel delivers an excerpt from the book,
+reflecting on the human tendency to compare achievements,
+grapple with self-doubt, and strive for personal growth. The
+key takeaway is emphasized in a striking typographic layout.
+
+
+"Tie yourself to a goal, not to people or things.'.",
+    image: "https://drive.google.com/file/d/13x2zk5qzlCLoafyUFEidJUGw5MhxWOHF/view?usp=drivesdk",
+    tags: ["Design", "Dark UI", "Book Cover"],
     color: "from-indigo-900 to-purple-900"
   },
   {
     id: 3,
-    title: "NightOwl Dashboard",
-    category: "Analytics Platform",
-    description: "A comprehensive analytics dashboard designed for night-shift workers with superior dark mode UX.",
-    image: "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=600&h=400&fit=crop",
-    tags: ["Dashboard", "Analytics", "Enterprise"],
+    title: "Book Cover",
+    category: "May Be",
+    description: ""A striking book cover crafted in a dark theme, featuring deep tones and dramatic contrasts. The design blends minimalism with mystery, using bold typography and subtle textures to create an atmospheric and immersive look. Perfect for genres like thriller, mystery, fantasy, or drama, the cover evokes intrigue and sets the tone for the story within."",
+    image: "https://drive.google.com/file/d/1kr84ucViqOUnDnGV9YTQgD5gL2jYdB-A/view?usp=drivesdk",
+    tags: ["Dark", "Book Cover", "Black"],
     color: "from-gray-900 to-purple-900"
   },
   {
     id: 4,
-    title: "Eclipse Medical",
-    category: "Healthcare App",
-    description: "A patient management system that brings warmth to healthcare through thoughtful, accessible design.",
-    image: "https://images.unsplash.com/photo-1576091160399-112ba8d25d1f?w=600&h=400&fit=crop",
-    tags: ["Healthcare", "Mobile", "Accessibility"],
+    title: "ui/ux design",
+    category: "online job search App",
+    description: "An intuitive online job search app designed to connect job seekers with employers seamlessly. It features smart search filters, personalized job recommendations, resume uploads, and instant application tracking. With a clean interface, real-time notifications, and in-app messaging, the app makes job hunting faster, easier, and more efficient.",
+    image: "https://drive.google.com/file/d/1m_YwZEgzT6tun--Lp5msLJQATzKe47dE/view?usp=drivesdk",
+    tags: ["Job portal", "Mobile", "Accessibility"],
     color: "from-blue-900 to-purple-900"
   },
   {
     id: 5,
-    title: "Raven Social",
+    title: "Flower Wbsite Design",
     category: "Social Platform",
-    description: "A social networking app for creators who thrive in the shadows, emphasizing authentic connections.",
-    image: "https://images.unsplash.com/photo-1611224923853-80b023f02d71?w=600&h=400&fit=crop",
-    tags: ["Social Media", "Creator Tools", "Community"],
+    description: "A visually elegant flower website design that combines soft pastel colors, high-quality floral imagery, and a clean layout. The design features an intuitive navigation system, product galleries, and a smooth shopping experience for bouquets and arrangements. Subtle animations and a nature-inspired aesthetic create a fresh, welcoming, and user-friendly online presence for florists and flower businesses.",
+    image: "https://drive.google.com/file/d/1d1GemWa6PlOelCyGL-xPec9W3_ISz79q/view?usp=drivesdk",
+    tags: ["Social Media", "Creator flowers", "Community"],
     color: "from-violet-900 to-black"
   },
   {
     id: 6,
-    title: "Phantom Learning",
-    category: "EdTech Platform",
-    description: "An immersive learning platform that makes education engaging through gamification and dark aesthetics.",
-    image: "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?w=600&h=400&fit=crop",
-    tags: ["Education", "Gamification", "Web Platform"],
+    title: "online Learning",
+    category: "Education Platform",
+    description: "A modern education platform designed to make learning accessible, interactive, and engaging. It offers online courses, live classes, progress tracking, and personalized learning paths. With features like discussion forums, quizzes, certifications, and a user-friendly dashboard, the platform empowers students and educators to connect, collaborate, and grow in a digital learning environment..",
+    image: "https://drive.google.com/file/d/1XDEZLosAY1B7cf-eRSktOqI6f6SQVpaD/view?usp=drivesdk",
+    tags: ["Education", "learning", "Web Platform"],
     color: "from-emerald-900 to-purple-900"
   }
 ];
