@@ -120,7 +120,7 @@ const Contact = () => {
                   </div>
                   <div>
                     <div className="text-sm text-muted-foreground">Phone</div>
-                    <div className="text-foreground">+1 (555) 123-4567</div>
+                    <div className="text-foreground">+91 54834 28394</div>
                   </div>
                 </div>
                 
@@ -130,7 +130,7 @@ const Contact = () => {
                   </div>
                   <div>
                     <div className="text-sm text-muted-foreground">Location</div>
-                    <div className="text-foreground">San Francisco, CA</div>
+                    <div className="text-foreground">Himanchal, India</div>
                   </div>
                 </div>
               </div>
@@ -145,7 +145,6 @@ const Contact = () => {
               <div className="flex space-x-4">
                 {[
                   { icon: Linkedin, label: "LinkedIn", href: "#" },
-                  { icon: Dribbble, label: "Dribbble", href: "#" },
                   { icon: Github, label: "GitHub", href: "#" }
                 ].map((social, index) => {
                   const Icon = social.icon;
@@ -170,7 +169,7 @@ const Contact = () => {
                   Current Availability
                 </h4>
                 <p className="text-foreground-muted mb-4">
-                  I'm currently accepting new projects for Q2 2024. 
+                  I'm currently accepting new projects to enhance my learning experience. 
                   Let's create something extraordinary together.
                 </p>
                 <div className="flex items-center space-x-2">
