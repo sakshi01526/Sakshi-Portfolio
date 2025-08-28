@@ -5,11 +5,12 @@ import { useState } from "react";
 
 const projects = [
   {
-    id: 1,
+     id: 1,
     title: "The Moral",
     category: "Book Cover",
-    description: "Designed a novel cover using Figma. A prominent text panel delivers an excerpt from the book, reflecting on the human tendency to compare achievements, grapple with self-doubt, and strive for personal growth. The key takeaway is emphasized in a striking typographic layout. Tie yourself to a goal, not to people or things.",
-    image: "https://drive.google.com/file/d/1eryG2xueoN_rRL7JjWu0KaHU_Mwv00IS/view?usp=drivesdk",
+    description: "Designed a novel cover using Figma. A prominent text panel delivers an excerpt from the book, reflecting on the human tendency to compare achievements, grapple with self-doubt, and strive for personal growth. The key takeaway is emphasized in a striking typographic layout."
+"Tie yourself to a goal, not to people or things.",
+    image: "https://postimg.cc/9z9jHC3D",
     tags: ["Design", "Dark UI", "Book Cover"],
     color: "from-purple-900 to-black"
   },
@@ -18,16 +19,16 @@ const projects = [
     title: "The day i met him",
     category: "Book Cover",
     description: "A romantic and heartwarming book cover design featuring soft pastel colors, dreamy illustrations, and elegant typography. Gentle floral elements, glowing light effects, and a serene background capture the warmth of love at first sight. The design radiates tenderness and charm, perfectly reflecting the emotions of a beautiful love story.",
-    image: "https://drive.google.com/file/d/13x2zk5qzlCLoafyUFEidJUGw5MhxWOHF/view?usp=drivesdk",
+    image: "https://postimg.cc/30X64r79",
     tags: ["Design", "Dark UI", "Book Cover"],
     color: "from-indigo-900 to-purple-900"
   },
   {
     id: 3,
-    title: "Book Cover",
-    category: "May Be",
+    title: "May Be",
+    category: "Book Cover",
     description: "A striking book cover crafted in a dark theme, featuring deep tones and dramatic contrasts. The design blends minimalism with mystery, using bold typography and subtle textures to create an atmospheric and immersive look. Perfect for genres like thriller, mystery, fantasy, or drama, the cover evokes intrigue and sets the tone for the story within.",
-    image: "https://drive.google.com/file/d/1kr84ucViqOUnDnGV9YTQgD5gL2jYdB-A/view?usp=drivesdk",
+    image: "https://postimg.cc/0bZWLBN6",
     tags: ["Dark", "Book Cover", "Black"],
     color: "from-gray-900 to-purple-900"
   },
@@ -36,7 +37,7 @@ const projects = [
     title: "ui/ux design",
     category: "online job search App",
     description: "An intuitive online job search app designed to connect job seekers with employers seamlessly. It features smart search filters, personalized job recommendations, resume uploads, and instant application tracking. With a clean interface, real-time notifications, and in-app messaging, the app makes job hunting faster, easier, and more efficient.",
-    image: "https://drive.google.com/file/d/1m_YwZEgzT6tun--Lp5msLJQATzKe47dE/view?usp=drivesdk",
+    image: "https://postimg.cc/QF9z1qXH",
     tags: ["Job portal", "Mobile", "Accessibility"],
     color: "from-blue-900 to-purple-900"
   },
@@ -45,7 +46,7 @@ const projects = [
     title: "Flower Wbsite Design",
     category: "Social Platform",
     description: "A visually elegant flower website design that combines soft pastel colors, high-quality floral imagery, and a clean layout. The design features an intuitive navigation system, product galleries, and a smooth shopping experience for bouquets and arrangements. Subtle animations and a nature-inspired aesthetic create a fresh, welcoming, and user-friendly online presence for florists and flower businesses.",
-    image: "https://drive.google.com/file/d/1d1GemWa6PlOelCyGL-xPec9W3_ISz79q/view?usp=drivesdk",
+    image: "https://postimg.cc/TLYqqRrC",
     tags: ["Social Media", "Creator flowers", "Community"],
     color: "from-violet-900 to-black"
   },
@@ -54,7 +55,7 @@ const projects = [
     title: "online Learning",
     category: "Education Platform",
     description: "A modern education platform designed to make learning accessible, interactive, and engaging. It offers online courses, live classes, progress tracking, and personalized learning paths. With features like discussion forums, quizzes, certifications, and a user-friendly dashboard, the platform empowers students and educators to connect, collaborate, and grow in a digital learning environment..",
-    image: "https://drive.google.com/file/d/1XDEZLosAY1B7cf-eRSktOqI6f6SQVpaD/view?usp=drivesdk",
+    image: "https://postimg.cc/mhnNCWhy",
     tags: ["Education", "learning", "Web Platform"],
     color: "from-emerald-900 to-purple-900"
   }
